@@ -1,0 +1,14 @@
+NB:
+Untuk Tampilan ada di Folder Views
+Untuk Action ada di folder Actions
+koneksi ada di folder config
+database ada di folder database tinggal Import
+(buat database nama eb_uas)
+terus export...
+
+ganti nama app di login.php & register.php
+
+buat tampilan maaf sederhana
+mungkin bisa ditambahin lagi, buat lainnya udah dinamis.
+
+semoga membantu...
